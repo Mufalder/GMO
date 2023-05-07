@@ -1,0 +1,29 @@
+﻿{
+	"version": 1683464951,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/obj_chicken_body-sheet0.png",
+		"images/obj_chicken_body-sheet1.png",
+		"images/obj_chicken_body-sheet2.png",
+		"images/bg_menu-sheet0.png",
+		"images/obj_border-sheet0.png",
+		"images/obj_low_border-sheet0.png",
+		"images/obj_egg-sheet0.png",
+		"images/obj_chicken_eyes-sheet0.png",
+		"images/obj_chicken_comb-sheet0.png",
+		"images/obj_chicken_comb-sheet1.png",
+		"images/obj_chicken_legs-sheet0.png",
+		"media/egg_drop.ogg",
+		"media/gmo_theme.ogg",
+		"media/egg_crush.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
